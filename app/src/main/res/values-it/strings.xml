@@ -59,9 +59,11 @@
     <string name="about">Informazioni</string>
     <string name="help_and_feedback">Aiuto e feedback</string>
     <string name="search">Cerca</string>
-    <string name="action_shuffle_all">Brani casuali</string>
+    
+	<string name="action_shuffle_all">Brani casuali</string>
     <string name="action_equalizer">Equalizzatore</string>
     <string name="search_library">Cerca nella libreria</string>
+
 
     <string name="select_theme">Seleziona tema</string>
     <string name="choose_theme_throughout">Scegli un tema da usare all\'interno dell\'app.</string>
@@ -76,15 +78,29 @@
     <string name="now_playing_selector">Scegli la schermata di riproduzione tra 4 stili differenti.</string>
     <string name="personalisation">Personalizzazione</string>
     <string name="other">Altro</string>
+	<string name="advanced">Avanzate</string>
     <string name="timber_about_opensource">Timber è un riproduttore musicale open source sviluppato da Naman Dwivedi.</string>
     <string name="summary_pause_detach">Abilita pausa della riproduzione quando vengono staccate le cuffie</string>
     <string name="pause_detach">Pausa al distacco</string>
+    <string name="summary_xposed_trackselector">Richiede Xposed e il modulo XMediaNotificationTrackSelector da installare. Questo fornirà l\'accesso al Playing di coda nella barra di notifica.</string>
+    <string name="xposed_trackselector">Supporto Playing di coda  nella notifica</string>
     <string name="currently_selected">Attualmente selezionato</string>
 
+	<string name="dark_theme">Tema scuro</string>
+    <string name="dark_theme_summary">Applica un tema scuro per tutta l\'applicazione</string>
+
+    <string name="primary_color">Colore primario</string>
+    <string name="primary_color_summary">Cambia il colore del tema principale</string>
+	
     <string name="count_song"><xliff:g id="count">%d</xliff:g> canzone</string>
     <string name="count_songs"><xliff:g id="count">%d</xliff:g> canzoni</string>
     <string name="count_album"><xliff:g id="count">%d</xliff:g> album</string>
     <string name="count_albums"><xliff:g id="count">%d</xliff:g> album</string>
     <string name="count_artist"><xliff:g id="count">%d</xliff:g> artista</string>
     <string name="count_artists"><xliff:g id="count">%d</xliff:g> artisti</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> brano aggiunto alla coda.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> brani aggiunti alla coda.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> brano aggiunto alla playlist.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> brani aggiunti alla playlist.</string>
 </resources>
